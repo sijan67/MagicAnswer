@@ -1,5 +1,5 @@
 # MagicAnswer
-App to give you answer to your difficult decisions
+App to give you answer to your difficult decisions!
 
 
 <img src="img1.png" width="200" height = "370" />
